@@ -25,7 +25,7 @@ module.exports = {
                     activities: [{
                         name: `${str_content}`,
                         type: "STREAMING",
-                        url: "https://discord.gg/malaya"
+                        url: "https://www.twitch.tv/kirushxn"
                     }],
                     status: "dnd"
                 });
